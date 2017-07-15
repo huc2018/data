@@ -1,0 +1,6 @@
+[{ "name": "IRA", "number": "5200", balance: 5763.36, "change": "-0.08% / $8,916.69", "state":"red"},
+                 { "name": "AAA", "number": "1812", "balance": 2010926.10, "change": "+0.21% / $38,881.63", "state":"green"},
+                 { "name": "AAA", "number": "0029", "balance": 39160334.42, "change": "-0.07% / $31,435.87", "state":"red"},
+                 { "name": "AAA", "number": "3810", "balance": 10050054.07, "change": "+0.07% / $8916.69", "state":"green"},
+                 { "name": "REG", "number": "2019", "balance": 13465679.34, "change": "0.0% / $0.00", "state":"grey"},
+                 { "name": "IRA", "number": "0146", "balance": 15884302.39, "change": "+0.03% / $7,430.83", "state":"green"}]
